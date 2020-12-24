@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://rb.gy/5ccugd") no-repeat center;
+    background: url("https://scontent.fdac20-1.fna.fbcdn.net/v/t1.0-9/83764249_1036356253456493_7149269932331499520_o.jpg?_nc_cat=110&ccb=2&_nc_sid=a4a2d7&_nc_ohc=qWEl-N9ZRC8AX9tib8l&_nc_ht=scontent.fdac20-1.fna&oh=b8b8cf0bcdd00ab771e0a8918dd637b1&oe=600988CF") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
